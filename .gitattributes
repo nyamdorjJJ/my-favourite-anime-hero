@@ -1,2 +1,49 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>My Hero Academia</title>
+</head>
+<body>
+    <!--header element-->
+    <header>
+        <img src="img/my hero.jpeg" />
+        <h1>My Hero Academia</h1>
+    </header>
+
+    <!--main element-->
+    <main>
+        <h2>about izuku midoriya</h2>
+        <p>
+            Izuku Midoriya is the main charecter from My Hero academia he was born without powers in a world full of them
+            ostracized and bullied he still wants to be a hero with all the odds stacked against him he meats his idol and
+            after that Midoriya will recive a power to be a hero.
+        </p>
+        <img src="img/rivel.jpeg" />
+        <p>Midoriya and his rival</p>
+        <!--charicteristics-->
+        <h2>Midoriya and his charicteristics</h2>
+        <ol>
+            <li>He's got green hair</li>
+            <li>He's treated as a good guy</li>
+            <li>He's trying to be the no.1 hero</li>
+            <!--friends-->
+        </ol>
+        <h2>Midoriya's friends</h2>
+        <p2>Midoriya has a lot of nice allies and friends click on the link below to see them</p2>
+        <ul>
+            <li><a href="https://myheroacademia.fandom.com/wiki/Katsuki_Bakugo">Bakugo</a></li>
+            <li><a href="https://myheroacademia.fandom.com/wiki/Tenya_Ida">Ida</a></li>
+            <li><a href="https://myheroacademia.fandom.com/wiki/Shoto_Todoroki">Todoroki</a></li>
+            <li><a href="https://myheroacademia.fandom.com/wiki/Ochaco_Uraraka">Ochacko</a></li>
+        </ul>
+
+    </main>
+    <!--footer-->
+   <footer>
+       <p>this site was created by a <a href="https://www.instagram.com/iam_a_crab/">mongolian boi</a>mongolian boi</p>
+   </footer>
+
+</body>
+</html>
